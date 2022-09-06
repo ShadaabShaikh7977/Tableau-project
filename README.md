@@ -1,4 +1,4 @@
-# tablue-project
+# tableau-project
 This is my first Tablue project 
 # Scatter plot to show the relation between Sales and Catogories
 ![scatter plot](https://user-images.githubusercontent.com/111575035/187446179-2df9e827-825c-4536-a1bf-ff41045087ac.png)
